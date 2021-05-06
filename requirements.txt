@@ -1,5 +1,5 @@
 Flask==1.0.2
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 pip==19.0.1
 awsebcli==3.14.10
 blessed==1.15.0
