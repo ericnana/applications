@@ -4,5 +4,6 @@ In the meantime I have developped two applications one for digit recognition and
 
 # How to use it
 Just run python3 app.py. Do not forget to add a requirements.txt to make it easier when running the previous command
+To run all the needed librairies/modiles/frameworks in requirement.txt just do pip install -r requirement.txt
 
 
